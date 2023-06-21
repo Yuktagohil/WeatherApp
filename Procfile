@@ -1,1 +1,1 @@
-web: node ./src/inx.js
+web: npm start
